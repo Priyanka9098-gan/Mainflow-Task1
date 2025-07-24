@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mainflow-Task1/static/css/main.0a34978e.css",
+    "main.js": "/Mainflow-Task1/static/js/main.de44511d.js",
+    "static/js/453.de82ebb0.chunk.js": "/Mainflow-Task1/static/js/453.de82ebb0.chunk.js",
+    "index.html": "/Mainflow-Task1/index.html",
+    "main.0a34978e.css.map": "/Mainflow-Task1/static/css/main.0a34978e.css.map",
+    "main.de44511d.js.map": "/Mainflow-Task1/static/js/main.de44511d.js.map",
+    "453.de82ebb0.chunk.js.map": "/Mainflow-Task1/static/js/453.de82ebb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a34978e.css",
+    "static/js/main.de44511d.js"
+  ]
+}
